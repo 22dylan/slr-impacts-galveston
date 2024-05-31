@@ -1,0 +1,15 @@
+{
+  "name": "Example - Galveston Deterministic Flood - Sea Level Ries",
+  "description": "Galveston dataset based deterministic hazard - data from NOAA",
+  "floodType": "dataset",
+  "hazardDatasets": [
+    {
+      "hazardType": "deterministic",
+      "demandType": "inundationDepth",
+      "demandUnits": "ft",
+      "floodParameters": {
+        "model": "slr flooding"
+      }
+    }
+  ]
+}
