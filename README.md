@@ -12,3 +12,5 @@ jupyter notebook
 
 If you use `conda`, simply replace `micromamba` in the commands above with `conda`.
 This will open Jupyter, from which the notebook can be ran.
+
+Note that this repository contains inundation raster files that have been resized from the original inundation rasters used in the analysis. These files were resized due to github's file size limitations. 
